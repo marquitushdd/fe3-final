@@ -44,7 +44,7 @@ En base al tema (claro u oscuro) consumido del contexto global, estilar las cuat
 
 ## Rutas
 
-### Pagina 1: Inicio Home
+### Pagina 1: Inicio Home 
 
 En esta página se deberá mostrar un listado en forma de grilla de los dentistas devueltos por la API
 
@@ -55,7 +55,7 @@ Se deberá tener en cuenta lo siguiente:
 - Cada dentista deberá contener `name` y `username`, junto con un boton `ADD FAV` (para agregar al localStorage como fav) y un `link` que permita su navegacion a la pagina _dentist/:id_ en base al id del dentista.
 - Cada Card debe integrar la funcionalidad de agregar a destacados
 
-### Pagina 2: Contacto
+### Pagina 2: Contacto 
 
 En esta pagina deberán implementar un [Form](/src/Components/Form.jsx) (con sus validaciones pertinentes) que capture la información del usuario que desea contactar con la empresa. Los campos serán los siguientes:
 
